@@ -1,2 +1,2 @@
-# calculator
+# CALCULATOR
 My first calculator using HTML, CSS and JavaScript
